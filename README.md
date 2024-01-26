@@ -5,7 +5,7 @@ Brevemente contare, como ejecutar el código para ver como se muestra:
 
 Al ejecutar el programa saldrá un pop up, con la calculadora, donde te dice que introduzca el precio de la cuenta.
 
-![Captura de pantalla 2024-01-26 190801](https://github.com/Rumomo/Calculadora-Propinas/assets/26388833/26cbfd8d-a953-43a3-8d31-2a6e286e9192)
+			![Captura de pantalla 2024-01-26 190801](https://github.com/Rumomo/Calculadora-Propinas/assets/26388833/26cbfd8d-a953-43a3-8d31-2a6e286e9192)
 
 Cuando le demos un precio, tenemos que seleccionar la cantidad de propina:
 
